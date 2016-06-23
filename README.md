@@ -2,7 +2,7 @@
 
 I have made this for a college project, so I am sharing it.
 
-As the name of the repository already says, given a grammar this code will generate his SLR(1) table, or raise an error in case of error.
+As the name of the repository already says, given a grammar this code will generate his SLR(1) table, or raise an error.
 
 ## Getting Started
 
